@@ -1,0 +1,8 @@
+name: MazeSelector
+main: com.smartloser.maze.Selector
+version: 2.0
+description: >
+             MazeSelector
+commands:
+  setselectoritem:
+    description: testt!    
